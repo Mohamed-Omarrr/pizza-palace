@@ -7,10 +7,54 @@
 
 .head{
 
-    height: 300px;
-    width: 1500px;
-    background-image: url(img/1.jpeg); 
+    height: 500px;
+    width: 1200px;
+    background-image : url(../images/1.jpg); max-width: 100%; max-height: 100%;
     background-size: 100% 100%;
-    background-color: black;
+    color: white;
+    text-align: center;
   
+}
+
+#head-text{
+
+
+    padding-top: 120px;
+}
+.about{
+
+
+    height: 300px;
+    width: 1200px;
+    background-image : url(../images/2.jpg); max-width: 100%; max-height: 100%;
+    background-size: 100% 100%;
+    color: white;
+    text-align: center;
+}
+
+.menu-header{
+
+    height: 200px;
+    width: 1200px;
+    background-image : url(../images/3.jpg); max-width: 100%; max-height: 100%;
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+
+}
+
+.body{
+
+    height: 700px;
+    width: 1200px;
+    background-image : url(../images/4.jpg); max-width: 100%; max-height: 100%;
+    background-size: 100% 100%;
+    color: white;
+}
+
+.menu{
+
+    font-size: 20px;
+
+
 }
