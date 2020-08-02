@@ -1,0 +1,16 @@
+.container{
+
+    background-color: white;
+    height: 4000px;
+    width: 1500px;
+}
+
+.head{
+
+    height: 300px;
+    width: 1500px;
+    background-image: url(img/1.jpg); 
+    background-size: 100% 100%;
+    background-color: black;
+  
+}
